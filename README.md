@@ -1,6 +1,6 @@
 # Storm_Of_Time_And_Space
 
-# Stormy_Six
+## Stormy_Six
 
 ![image](https://github.com/user-attachments/assets/6a0fb8e4-182b-49ec-9759-a696257ef5ef)
 
