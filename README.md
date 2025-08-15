@@ -19,6 +19,10 @@
 
 4개의 스포너와 1마리의 보스를 잡고 엔딩을 볼 수 있습니다.
 
+**시연 영상**
+<br>
+
+[![Video Label](http://img.youtube.com/vi/N3bjirFIqx0/0.jpg)](https://youtu.be/N3bjirFIqx0)
 
 ## 👨‍🏫 조작법
 
